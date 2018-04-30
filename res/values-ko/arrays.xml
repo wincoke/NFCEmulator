@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_menu">
+        <item>이름 변경</item>
+        <item>삭제</item>
+        <item>표시/숨김</item>
+        <item>Tasker 생성 (%1$s.tsk.xml)</item>
+        <item>Magisk 모듈 생성</item>
+        <item>@string/btn_action_send_to_desktop</item>
+    </string-array>
+    <string-array name="donate_way">
+        <item>Alipay</item>
+        <item>WeChat</item>
+        <item>PayPal</item>
+    </string-array>
+    <string-array name="language">
+        <item>기본값 (Default)</item>
+        <item>중국어 간체자</item>
+        <item>중국어 번체자</item>
+        <item>영어</item>
+        <item>러시아어</item>
+        <item>이탈리아어</item>
+        <item>포르투갈어</item>
+        <item>브라질어</item>
+        <item>네덜란드어</item>
+        <item>헝가리어</item>
+        <item>터키어</item>
+        <item>스페인어</item>
+        <item>폴란드어</item>
+        <item>독일어</item>
+        <item>프랑스어</item>
+        <item>한국어</item>
+    </string-array>
+    <string-array name="nfc_detect">
+        <item>켜기</item>
+        <item>끄기</item>
+    </string-array>
+</resources>

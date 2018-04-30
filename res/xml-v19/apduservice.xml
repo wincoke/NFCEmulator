@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<host-apdu-service android:description="@string/apdu_servicedesc" android:requireDeviceUnlock="false" android:apduServiceBanner="@mipmap/wallet_banner"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <aid-group android:description="@string/apdu_aiddescription" android:category="payment">
+        <aid-filter android:name="F0010203040506" />
+    </aid-group>
+</host-apdu-service>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_menu">
+        <item>Rinomina</item>
+        <item>Cancella</item>
+        <item>Mostra/Nascondi</item>
+        <item>Genera Tasker（%1$s.tsk.xml）</item>
+        <item>Genera Magisk Module</item>
+        <item>@string/btn_action_send_to_desktop</item>
+    </string-array>
+    <string-array name="donate_way">
+        <item>Alipay</item>
+        <item>WeAhat</item>
+        <item>PayPal</item>
+    </string-array>
+    <string-array name="language">
+        <item>Default</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+        <item>English</item>
+        <item>Русский</item>
+        <item>Italian</item>
+        <item>Português</item>
+        <item>Brazil</item>
+        <item>Dutch/Nederlands</item>
+        <item>Hungarian</item>
+        <item>Turkish</item>
+        <item>Spanish</item>
+        <item>Polish</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Korean</item>
+    </string-array>
+    <string-array name="nfc_detect">
+        <item>On</item>
+        <item>Off</item>
+    </string-array>
+</resources>

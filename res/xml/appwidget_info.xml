@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="40.0dip" android:minHeight="40.0dip" android:updatePeriodMillis="0" android:initialLayout="@layout/appwidget_layout" android:configure="com.yuanwofei.cardemulator.MainActivity" android:previewImage="@mipmap/simulate_off" android:resizeMode="horizontal|vertical"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

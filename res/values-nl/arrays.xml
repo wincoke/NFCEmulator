@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_menu">
+        <item>Hernoem</item>
+        <item>Verwijder</item>
+        <item>Toon/Verberg</item>
+        <item>Genereer Tasker (%1$s.tsk.xml)</item>
+        <item>Genereer Magisk Module</item>
+        <item>@string/btn_action_send_to_desktop</item>
+    </string-array>
+    <string-array name="donate_way">
+        <item>Alipay</item>
+        <item>WeChat</item>
+        <item>PayPal</item>
+    </string-array>
+    <string-array name="language">
+        <item>Default</item>
+        <item>Simplified Chinese/简体中文</item>
+        <item>Traditional Chinese/繁體中文</item>
+        <item>English</item>
+        <item>Russian/Русский</item>
+        <item>Italian/Italiano</item>
+        <item>Portuguese/Português</item>
+        <item>Brazil</item>
+        <item>Dutch/Nederlands</item>
+        <item>Hungarian</item>
+        <item>Turkish</item>
+        <item>Spanish</item>
+        <item>Polish</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Korean</item>
+    </string-array>
+    <string-array name="nfc_detect">
+        <item>Aan</item>
+        <item>Uit</item>
+    </string-array>
+</resources>

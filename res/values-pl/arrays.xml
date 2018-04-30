@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_menu">
+        <item>Zmień nazwę</item>
+        <item>Usuń</item>
+        <item>Pokaż/Ukryj</item>
+        <item>Wygeneruj do Tasker（%1$s.tsk.xml）</item>
+        <item>Wygeneruj moduł Magisk</item>
+        <item>@string/btn_action_send_to_desktop</item>
+    </string-array>
+    <string-array name="donate_way">
+        <item>Alipay</item>
+        <item>Wechat</item>
+        <item>PayPal</item>
+    </string-array>
+    <string-array name="language">
+        <item>Domyślny</item>
+        <item>Uproszczony Chiński</item>
+        <item>Tradycyjny Chiński</item>
+        <item>Angielski</item>
+        <item>Rosyjski</item>
+        <item>Włoski</item>
+        <item>Portugalski</item>
+        <item>Brazil</item>
+        <item>Dutch/Nederlands</item>
+        <item>Hungarian</item>
+        <item>Turkish</item>
+        <item>Español</item>
+        <item>Polski</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Korean</item>
+    </string-array>
+    <string-array name="nfc_detect">
+        <item>Włącz</item>
+        <item>Wyłącz</item>
+    </string-array>
+</resources>

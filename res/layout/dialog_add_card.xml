@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="5.0dip" android:paddingRight="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/card_ids_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="17.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="17.0dip">
+        <EditText android:id="@id/section1" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section2" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section3" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section4" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section5" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section6" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section7" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section8" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section9" style="@style/CardIdStyle" />
+        <EditText android:id="@id/section10" style="@style/CardIdStyle" />
+    </LinearLayout>
+    <EditText android:id="@id/card_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="17.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="17.0dip" android:hint="@string/msg_input_tip" android:singleLine="true" />
+</LinearLayout>

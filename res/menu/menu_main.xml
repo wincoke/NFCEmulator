@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@id/menu_sort_actions" android:visible="false">
+        <item android:icon="@drawable/ic_done" android:id="@id/action_submit_sort_result" android:title="@string/btn_action_ok" app:showAsAction="ifRoom" />
+    </group>
+    <group android:id="@id/menu_normal_actions">
+        <item android:icon="@drawable/ic_nfc_reader" android:id="@id/action_nfc_reader" android:title="@string/menu_reader_mode" app:showAsAction="ifRoom" />
+        <item android:id="@id/action_donate" android:title="@string/menu_donate" app:showAsAction="never" />
+        <item android:id="@id/action_nfc_setting" android:title="@string/menu_nfc_setting" app:showAsAction="never" />
+        <item android:id="@id/action_advanced" android:title="@string/menu_advanced" app:showAsAction="never">
+            <menu>
+                <item android:id="@id/action_language" android:title="@string/menu_language" app:showAsAction="never" />
+                <item android:id="@id/action_add" android:title="@string/menu_add_card" app:showAsAction="never" />
+                <item android:id="@id/action_restore" android:title="@string/menu_restore_nfc_conf" app:showAsAction="never" />
+                <item android:id="@id/action_nfc_detect" android:title="@string/menu_nfc_function" app:showAsAction="never" />
+                <item android:id="@id/action_unlock_system" android:title="@string/menu_unlock_system" app:showAsAction="never" />
+                <item android:id="@id/action_wallet_setting" android:title="@string/menu_wallet_setting" app:showAsAction="never" />
+                <item android:id="@id/action_xposed" android:title="@string/menu_xposed" app:showAsAction="never" />
+            </menu>
+        </item>
+        <item android:id="@id/action_backup_restore" android:title="@string/menu_backup_restore" app:showAsAction="never" />
+        <item android:id="@id/action_help" android:title="@string/menu_help" app:showAsAction="never" />
+        <item android:id="@id/action_feedback" android:visible="false" android:title="@string/menu_feedback" app:showAsAction="never" />
+        <item android:id="@id/action_about" android:title="@string/menu_about" app:showAsAction="never" />
+    </group>
+</menu>

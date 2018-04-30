@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="card_menu">
+        <item>重命名</item>
+        <item>刪除</item>
+        <item>顯示/隱藏</item>
+        <item>生成Tasker（%1$s.tsk.xml）</item>
+        <item>生成Magisk模塊</item>
+        <item>@string/btn_action_send_to_desktop</item>
+    </string-array>
+    <string-array name="donate_way">
+        <item>支付寶</item>
+        <item>微信</item>
+        <item>PayPal</item>
+    </string-array>
+    <string-array name="language">
+        <item>默認</item>
+        <item>簡體中文</item>
+        <item>繁體中文</item>
+        <item>英文</item>
+        <item>俄語</item>
+        <item>意大利語</item>
+        <item>葡萄牙語</item>
+        <item>巴西語</item>
+        <item>荷蘭語</item>
+        <item>匈牙利語</item>
+        <item>土耳其語</item>
+        <item>西班牙語</item>
+        <item>波兰語</item>
+        <item>德語</item>
+        <item>法語</item>
+        <item>韩語</item>
+    </string-array>
+    <string-array name="nfc_detect">
+        <item>開啟</item>
+        <item>關閉</item>
+    </string-array>
+</resources>
